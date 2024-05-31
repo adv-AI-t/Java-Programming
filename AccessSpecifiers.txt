@@ -1,0 +1,7 @@
+                                 PRIVATE     PROTECTED       PUBLIC      DEFAULT
+
+Same class                          YES         YES             YES         YES         
+Same Package subclass               NO          YES             YES         YES
+Same Package non-subclass           NO          YES             YES         YES     
+Different Package subclass          NO          YES             YES         NO
+Different Package non-subclass      NO          NO              YES         NO

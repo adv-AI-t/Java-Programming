@@ -1,0 +1,5 @@
+TYPES OF INTERFACE:
+
+1. Normal Interface -> Can have multiple methods
+2. SAM Interface -> Only one method
+3. Marker Interface -> No methods ...used to update something to compiler...to allow something
